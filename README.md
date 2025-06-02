@@ -1,6 +1,5 @@
 # Criando-um-Dashboard-de-Vendas-do-Xbox-com-Excel
 
-Parece um desafio bem estruturado! Para criar um dashboard de vendas eficiente no Excel, aqui estão algumas etapas que podem te ajudar:
 
 ### **Passos para Criar o Dashboard**
 1. **Organização dos Dados**  
